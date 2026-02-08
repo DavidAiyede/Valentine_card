@@ -54,6 +54,15 @@ body{
 #rejection img{
     width: 250px;
 }
+.whatsappBtn{
+    font-weight: bold;
+    padding: 14px 22px;
+    margin-top: 15px;
+    text-decoration: none;
+    border-radius: 30px;
+    color: white;
+    background: #d3258d;
+}
 @keyframes pop{
  0%{
     transform: scale(0.5);
